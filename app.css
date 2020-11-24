@@ -2,7 +2,8 @@
     max-width: 850px;
     margin: 0 auto;
     padding: 50px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Satisfy';
+    font-weight: 400;
 }
 
 #gradesList{
