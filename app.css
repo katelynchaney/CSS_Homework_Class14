@@ -6,7 +6,7 @@
 }
 
 #gradesList{
-    background-color: aquamarine;
+    background-color: purple;
     border-radius: 10px;
     padding: 20px 20px;
 }
@@ -35,5 +35,4 @@ input {
     margin-bottom: 50px;
     text-align: center;
     font-weight: bold;
-    border: 3px aquamarine
-}
+    border: 10px purple}
