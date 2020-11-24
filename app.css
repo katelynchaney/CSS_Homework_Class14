@@ -2,7 +2,7 @@
     max-width: 850px;
     margin: 0 auto;
     padding: 50px;
-    font-family: 'Satisfy';
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: 400;
 }
 
@@ -35,5 +35,9 @@ input {
 .header {
     margin-bottom: 50px;
     text-align: center;
-    font-weight: bold;
     border: 10px purple}
+
+button {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 400;
+}
